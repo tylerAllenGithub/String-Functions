@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495360487 source:c:\users\tyler\documents\c++ projects\dunno\src\class1.cpp
+	<iostream>
+	<fstream>
+	"Class1.h"
+
+1495360487 c:\users\tyler\documents\c++ projects\dunno\include\class1.h
+	<string>
+
+1495359868 source:c:\users\tyler\documents\c++ projects\dunno\src\client1.cpp
+	<fstream>
+	<iostream>
+	"Class1.h"
+
